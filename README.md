@@ -94,12 +94,12 @@ Artists like George Rickey and Alexander Calder inspired the balanced, rhythmic 
 ## File Structure
 ```
 project-folder/
-│
-├── index.html          # Main HTML file
-├── sketch.js           # Primary animation code
-├── style.css           # Styling
-├── jsconfig.json       # JavaScript configuration
-└── README.md           # This file
+
+- index.html          # Main HTML file
+- sketch.js           # Primary animation code
+- style.css           # Styling
+- jsconfig.json       # JavaScript configuration
+- README.md           # This file
 ```
 
 ## Requirements
